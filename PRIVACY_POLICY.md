@@ -123,7 +123,7 @@ We may update this Privacy Policy to reflect changes in the extension's features
 If you have any questions about this Privacy Policy, please open an issue on our GitHub repository or contact us directly:
 
 - **GitHub Issues:** [https://github.com/mendeltakougang/flashcard-extension/issues](https://github.com/mendeltakougang/flashcard-extension/issues)
-- **Email:** your-email@example.com
+- **Email:** mendeltakougang@gmail.com 
 
 ---
 
